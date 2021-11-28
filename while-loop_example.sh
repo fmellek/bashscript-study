@@ -9,3 +9,5 @@ do
 done 
 
 echo "Hi there ${name}"
+
+#Now, if you run the above and just press enter without providing input, the loop would run again and ask you for your name again and again until you actually provide some input.
