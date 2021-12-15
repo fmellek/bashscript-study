@@ -4,7 +4,7 @@ do
   if [ $i -eq 2 ]
   then
     echo "skipping number 2"
-  continue
+  continue 
   fi
   echo "I is equal to $i"
 done
