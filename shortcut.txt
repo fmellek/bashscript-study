@@ -1,0 +1,10 @@
+These are the shortcuts for if you have like really long commands.These shortcuts will be so handy.
+
+1. Ctrl+k= Delete everything from the cursor to the end of the line
+2. Ctrl+u= Delete everything from the cursor to the start of the line
+3. Ctrl+w= Delete one word backward from cursor
+4. Ctrl+r= Search your history backward. It is really handy and speeds up the work-flow.
+5. Ctrl+l= Clear the screen, I use this instead of typing the clear command.
+6. Ctrl+s= Stops the output to the screen. If you run it again you will cancel the affection.
+7. Ctrl+c= Terminate the current command.
+8. Ctrl+z= Throw the current command to background.
