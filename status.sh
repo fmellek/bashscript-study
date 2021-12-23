@@ -90,3 +90,5 @@ menu(){
   WrongCommand;;
     esac
 }
+
+menu 
